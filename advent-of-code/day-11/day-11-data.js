@@ -141,5 +141,5 @@ const galaxiesInput = `.....#.....#......#.............................#........
 
 const galaxies =  galaxiesInput.split("\n")
 
-console.log(galaxies)
+
 module.exports = {galaxies}

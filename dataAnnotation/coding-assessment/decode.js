@@ -17,7 +17,6 @@ function decode(code_input) {
         decodedMessage += currentWordClean + " "
 
     }
-console.log(decodedMessage.trim())
 return decodedMessage.trim()
 }
 
